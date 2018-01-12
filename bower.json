@@ -1,0 +1,38 @@
+{
+  "name": "genorchiomento-site",
+  "authors": [
+    "Genor Chiomento <genor.chiomento@gmail.com>"
+  ],
+  "description": "Meu portifolio, website, blog e contato para freelance/emprego/curriculo",
+  "main": "assets/scripts/main.js",
+  "keywords": [
+    "genor",
+    "chiomento",
+    "front-end",
+    "web",
+    "designer",
+    "desenvolvedor",
+    "developer",
+    "fron",
+    "end",
+    "freelancer",
+    "website",
+    "blog"
+  ],
+  "license": "MIT",
+  "homepage": "http://genorchiomento.com/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0",
+    "normalize-css": "^7.0.0"
+  }
+}
