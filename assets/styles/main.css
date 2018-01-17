@@ -1,0 +1,13 @@
+body {
+    font-family: Bitter, Bungee, Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+.logo {
+    color: black;
+    font-weight: 700;
+    font-size: 28px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    padding: 10px 20px;
+    font-family:Bungee;
+}
