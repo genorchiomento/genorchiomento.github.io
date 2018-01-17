@@ -2,8 +2,8 @@ body {
     font-family: Bitter, Bungee, Cambria, Cochin, Georgia, Times, Times New Roman, serif;
 }
 
-.logo {
-    color: black;
+.logo a {
+    color: #141414;
     font-weight: 700;
     font-size: 28px;
     text-decoration: none;
