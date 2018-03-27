@@ -1,5 +1,10 @@
 body {
     font-family: Bitter, Bungee, Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    background-image: url(../images/bg-green-genor.svg);
+    background-position: center center;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size:  cover;
 }
 
 .logo a {
@@ -9,5 +14,25 @@ body {
     text-decoration: none;
     letter-spacing: 2px;
     padding: 10px 20px;
-    font-family:Bungee;
+    font-family: Bungee;
+}
+
+.photo_profile {
+    width: 15em;
+    border-radius: 100%;
+    border: 2px solid #e2e2e2;
+    margin-top: 10%;
+}
+
+.title_name {
+    margin-top: 1.5rem;
+}
+
+.title_job {
+    margin-top: .70rem;
+    color: #e2e2e2;
+}
+
+.social_media {
+    margin-top: 5rem;
 }
